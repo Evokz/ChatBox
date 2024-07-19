@@ -1,4 +1,4 @@
-#inicio do codepa
+#inicio do code, aqui eu crio o ChatBot
 class ChatBot:
     def __init__(self, nome):
         self.nome = nome
