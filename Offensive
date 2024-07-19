@@ -64,7 +64,7 @@ class ChatBot:
         elif 'nutricionismo' in mensagem or 'nutricionista' in mensagem:
             return f'Tenho cara de Paulo Muzy? Felho da puta.'
         elif 'ue' in mensagem:
-            return f'UE OQUE CARALHO FILHO DA PUTA'
+            return f'UE O QUE CARALHO FILHO DA PUTA'
         else:
             return f'Fale algo que eu entenda, seu chimpanzé filho da puta.'
     def iniciar(self):
