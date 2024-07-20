@@ -2,7 +2,7 @@
 class ChatBot:
     def __init__(self, nome):
         self.nome = nome
-        self.saudacoes = ['oi', 'ola', 'como vai', 'eai', 'oiii', 'oii', 'hai','hi','hey','olaa','opa','opaa','opaaa']
+        self.saudacoes = ['oi', 'ola', 'como vai', 'eai', 'oiii', 'oii', 'hai','hi','hey','olaa','opa','opaa','opaaa', 'epa']
         self.negacoes = ['não foi isso que pedi', 'não é isso', 'errado']
         self.sair = ['sair', 'n', 'no','nao']
         self.name = ['Gustavo','Plinio','Carlos','Leandro','Pedro','Joao','Augusto','Vinicius','Alberto','Rafael']
