@@ -5,7 +5,7 @@ class ChatBot:
         self.saudacoes = ['oi', 'ola', 'como vai', 'eai', 'oiii', 'oii', 'hai','hi','hey','olaa','opa','opaa','opaaa', 'epa', 'epaa','epaaa']
         self.negacoes = ['não foi isso que pedi', 'não é isso', 'errado']
         self.sair = ['sair', 'n', 'no','nao']
-        self.name = ['Gustavo','Plinio','Carlos','Leandro','Pedro','Joao','Augusto','Vinicius','Alberto','Rafael', 'Antonio','Karina']
+        self.name = ['Gustavo','Plinio','Carlos','Leandro','Pedro','Joao','Augusto','Vinicius','Alberto','Rafael', 'Antonio','Karina','Rafaela']
 #aqui vem a sacada das respostas
     def responder(self, mensagem):
         mensagem = mensagem.lower()
