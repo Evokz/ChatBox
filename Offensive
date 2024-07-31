@@ -52,7 +52,7 @@ class ChatBot:
         elif 'trabalho' in mensagem or 'job' in mensagem:
             return f'vai fazer glub glub no teu chefe, vai'
         elif 'viajar' in mensagem or 'outro país' in mensagem:
-            return f'tomara que teu avião caia'
+            return f'tomara que teu avião caia ou que tu pare no albergue'
         elif 'Brasil' in mensagem or 'brasil' in mensagem or 'futuro do brasil' in mensagem:
             return f'KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK \n1. O CARA ACHA QUE BRASIL TEM SOLUÇAO \n2. KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkk'
         elif 'Alexandre' in mensagem or 'Alexandre de Moraes' in mensagem or 'xandao' in mensagem or 'xandão' in mensagem:
