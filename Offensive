@@ -48,7 +48,7 @@ class ChatBot:
         elif 'sou ruim' in mensagem or 'video game' in mensagem:
             return f'Claro, ta passando raiva em joguinho amigao? Nao ta na hora de uma carteira de trabalho nao? Corno manso, alem de desempregado é ruim no jogo, da alt f4 da vida ai irmao)'
         elif 'namoro' in mensagem or 'relacionamento' in mensagem:
-            return f'Irmao, enquanto tu ta mandando isso aqui pra mim, tua mina ta dando, se bem que nem mina tu deve ter, cara fedido, vai tomar banho mlk'
+            return f'Irmao, enquanto tu ta mandando isso aqui pra mim, tua mina ta dando, se bem que nem mina tu deve ter, cara fedido, vai tomar banho mlk, como diria o Luan "TUAMINATAMAMANDO"'
         elif 'trabalho' in mensagem or 'job' in mensagem:
             return f'vai fazer glub glub no teu chefe, vai'
         elif 'viajar' in mensagem or 'outro país' in mensagem:
