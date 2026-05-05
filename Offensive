@@ -10,7 +10,7 @@ class ChatBot:
     def responder(self, mensagem):
         mensagem = mensagem.lower()
         if any(saudacao in mensagem for saudacao in self.saudacoes):
-            return f'Que oi oque cara, vai dar tua bunda, fdp, manda logo o que tu quer, caralho'
+            return f'Que oi oque cara, vai dar tua bunda, fdp, manda logo o que tu quer, caralh'
         elif 'tudo bom' in mensagem or 'como vai' in mensagem or 'como você está' in mensagem:
             return f'tudo bom o caralho, filho da puta, nao sou teu amigo'
         elif 'dia bonito' in mensagem or 'como está o dia' in mensagem or 'dia maravilhoso' in mensagem or 'ta bom pra ir para a praia ne' in mensagem or 'ta bom pra ir pra praia ne' in mensagem:
